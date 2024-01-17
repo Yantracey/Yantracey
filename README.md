@@ -26,8 +26,10 @@
 
 - <b>Penetration Testing</b>
 
-- <b>Splunk</b
+- <b>Splunk</b>
+   - [Building a Security Environment in Splunk](https://github.com/Yantracey/Building-a-Security-Monitoring-Environment/blob/main/Building%20a%20Security%20Monitoring%20Environment.pdf)
    - [Let's Go Splunking](https://github.com/Yantracey/Lets-Go-Splunking/blob/main/Lets%20Go%20Splunking.pdf)
+
 
 - <b>Digital Forensics</b>
    - [Case Report National Gallery DC](https://github.com/Yantracey/Case-Report-National-Gallery-DC/blob/main/The%20Final%20Report.pdf)
