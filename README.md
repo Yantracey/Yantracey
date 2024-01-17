@@ -10,8 +10,8 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Cybersecurity 101</b>
-  - [Security Reporting](https://github.com/Yantracey/Security-Reporting)
-  - [Governance, Risk and Compliance](https://github.com/Yantracey/Assessing-Security-Culture/blob/main/Assessing%20Security%20Culture.pdf)
+   - [Security Reporting](https://github.com/Yantracey/Security-Reporting)
+   - [Governance, Risk and Compliance](https://github.com/Yantracey/Assessing-Security-Culture/blob/main/Assessing%20Security%20Culture.pdf)
 
 
 - <b>Linux</b>
@@ -26,7 +26,8 @@
 
 - <b>Penetration Testing</b>
 
-- <b>Splunk</b>
+- <b>Splunk</b
+   - [Let's Go Splunking](https://github.com/Yantracey/Lets-Go-Splunking/blob/main/Lets%20Go%20Splunking.pdf)
 
 - <b>Digital Forensics</b>
    - [Case Report National Gallery DC](https://github.com/Yantracey/Case-Report-National-Gallery-DC/blob/main/The%20Final%20Report.pdf)
