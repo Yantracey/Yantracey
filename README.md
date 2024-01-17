@@ -11,6 +11,8 @@
 
 - <b>Cybersecurity 101</b>
   - [Security Reporting](https://github.com/Yantracey/Security-Reporting)
+  - [Assessing Security Culture](https://github.com/Yantracey/Assessing-Security-Culture/blob/main/Assessing%20Security%20Culture.pdf)
+
 
 - <b>Linux</b>
  
