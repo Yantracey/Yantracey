@@ -17,6 +17,7 @@
 - <b>Linux</b>
   - [Terminal and Bash](https://github.com/Yantracey/Terminal-and-Bash---Lucky-Duck-Casino-)
   - [Archiving and Logging Data](https://github.com/Yantracey/Archiving-and-Logging-Data/blob/main/Archiving%20and%20Logging%20Data.pdf)
+  - [Advanced Bash-Owning the System](https://github.com/Yantracey/Advanced-Bash-Owning-the-System/blob/main/Owning%20the%20System.pdf)
  
 - <b>Windows</b>
 
