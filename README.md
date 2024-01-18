@@ -15,6 +15,7 @@
 
 
 - <b>Linux</b>
+  - [Terminal and Bash](https://github.com/Yantracey/Terminal-and-Bash---Lucky-Duck-Casino-/tree/main)
  
 - <b>Windows</b>
 
