@@ -20,7 +20,8 @@
   - [Advanced Bash-Owning the System](https://github.com/Yantracey/Advanced-Bash-Owning-the-System/blob/main/Owning%20the%20System.pdf)
  
 - <b>Windows</b>
-
+  - [Windows Administration and Hardening](https://github.com/Yantracey/Windows-Administration-and-Hardening/blob/main/Windows%20Admin%20and%20Hardening.pdf)
+    
 - <b>Networking</b>
 
 - <b>Cryptography</b>
