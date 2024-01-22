@@ -27,6 +27,7 @@
    - [Networking Fundamentals II](https://github.com/Yantracey/Networking-Fundamentals-II/blob/main/In%20a%20Network%20Far%2C%20Far%20Away!.pdf)
 
 - <b>Cryptography</b>
+   - [Cryptography Ransomware Challenge](https://github.com/Yantracey/Cryptography/blob/main/Cryptography%20Ransomware%20Challenge.pdf)
 
 - <b>Web Development</b>
 
