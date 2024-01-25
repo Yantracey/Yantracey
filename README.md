@@ -29,7 +29,7 @@
 - <b>Cryptography</b>
    - [Cryptography Ransomware Challenge](https://github.com/Yantracey/Cryptography/blob/main/Cryptography%20Ransomware%20Challenge.pdf)
 
-- <b>Web Development</b>
+- <b>Web Development and Cloud Security</b>
   - [Web Development](https://github.com/Yantracey/Web-Development/blob/main/Web%20Development%20Challenge.pdf)
   - [Build, Secure, and Protect a Web Application](https://github.com/Yantracey/Build-Secure-and-Protect-a-Web-Application)
   - [Testing Web Applications for Vulnerabilities](https://github.com/Yantracey/Testing-Web-Applications-for-Vulnerabilities/blob/main/Testing%20Web%20Applications%20for%20Vulnerabilities.pdf)
