@@ -2,7 +2,7 @@
 
 <h2>📄 Certifications:</h2>
 
-- <b>CISCO CCNA (Pending)</b>
+- <b>Cisco CCNA (Pending)</b>
 - <b>CompTIA Security+ </b>
 - <b>Certificate in Cybersecurity (University of Toronto)</b>
 - <b>Certified in Cybersecurity (ISC2)</b>
